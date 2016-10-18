@@ -1,0 +1,6 @@
+@import './reset.css';
+@import './main.scss';
+
+h1 {
+  color: red
+}
